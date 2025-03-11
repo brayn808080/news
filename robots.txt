@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://brayn808080.github.io/news/sitemap.xml
